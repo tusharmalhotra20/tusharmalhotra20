@@ -11,9 +11,9 @@ I'm a 2022 graduate in Computer Science Engineering🎓 from GTB Institute of Te
   ### Know me better:
 - 🔭 I’m currently working as a **Freelancer.**
 
-- 🌱 I’m currently learning **concepts of Web 3.0 & Blockchain.**
+<!-- - 🌱 I’m currently learning **concepts of Web 3.0 & Blockchain.** -->
 
-- 💬 Ask me about **Web 3.0, Blockchain, Crypto, NFT's, DeFi, & DAO's.**
+<!-- - 💬 Ask me about **Web 3.0, Blockchain, Crypto, NFT's, DeFi, & DAO's.** -->
 
 - 📫 How to reach me **officialtusharmalhotra@gmail.com**
 
